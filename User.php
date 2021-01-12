@@ -7,4 +7,8 @@ class User
     {
     }
 
+    public function getUserInfo(){
+
+    }
+
 }

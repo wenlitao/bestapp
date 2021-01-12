@@ -7,5 +7,8 @@ class Hello
     {
 
     }
+    public function a(){
+
+    }
 
 }
